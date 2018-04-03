@@ -1,0 +1,29 @@
+.container {
+    width:320%;
+    height: 260% ;
+    background: #ccc;
+    border-radius: 5px ;
+    padding: 15px ;
+
+}
+
+.month-name {
+    margin: 0;
+    
+
+
+}
+ul{
+    list-style-type: none;
+    padding :0;
+
+}
+ul.days {
+    display: flex;
+    justify-content: space-around;
+}
+li.day {
+   
+
+
+}
